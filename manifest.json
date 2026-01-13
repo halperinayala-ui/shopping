@@ -1,0 +1,22 @@
+{
+  "name": "קניות",
+  "short_name": "קניות",
+  "description": "רשימת קניות משפחתית",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#8ec5fc",
+  "theme_color": "#8ec5fc",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
